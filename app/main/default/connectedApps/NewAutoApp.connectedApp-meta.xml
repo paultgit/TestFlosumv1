@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ConnectedApp xmlns="http://soap.sforce.com/2006/04/metadata">
+    <contactEmail>ravi@flosum.com</contactEmail>
+    <label>NewAutoApp</label>
+    <oauthConfig>
+        <callbackUrl>https://c.na59.visual.force.com/apex/fl_registerflosumorg
+oob</callbackUrl>
+        <consumerKey>hLrbUejxvZ6UdCrhKgs7vlUF1iUf6Lv0WbsPYduTiARx6VKR0x4RjOxN3N1pS7vTXcO6NbDMEW28I5IVdZ2of</consumerKey>
+        <isAdminApproved>false</isAdminApproved>
+        <scopes>Basic</scopes>
+        <scopes>Api</scopes>
+        <scopes>Web</scopes>
+        <scopes>Full</scopes>
+        <scopes>Chatter</scopes>
+        <scopes>CustomApplications</scopes>
+        <scopes>RefreshToken</scopes>
+        <scopes>OpenID</scopes>
+        <scopes>CustomPermissions</scopes>
+        <scopes>Wave</scopes>
+    </oauthConfig>
+</ConnectedApp>
