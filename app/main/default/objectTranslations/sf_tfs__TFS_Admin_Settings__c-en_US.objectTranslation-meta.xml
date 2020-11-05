@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fields>
+        <label><!-- Named Credentials --></label>
+        <name>sf_tfs__Named_Credentials__c</name>
+    </fields>
+    <fields>
+        <label><!-- Named Credentials for Usersearch --></label>
+        <name>sf_tfs__Named_Credentials_for_Usersearch__c</name>
+    </fields>
+    <fields>
+        <label><!-- TFSBrowseUrl --></label>
+        <name>sf_tfs__TFSBrowseUrl__c</name>
+    </fields>
+    <fields>
+        <label><!-- TFS Search Named Credentials --></label>
+        <name>sf_tfs__TFS_Search_Named_Credentials__c</name>
+    </fields>
+    <fields>
+        <label><!-- is many to many relationship --></label>
+        <name>sf_tfs__is_many_to_many_relationship__c</name>
+    </fields>
+</CustomObjectTranslation>

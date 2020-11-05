@@ -1,0 +1,996 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value>Object50</value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value>Objects50</value>
+    </caseValues>
+    <fields>
+        <label><!-- Checkbox --></label>
+        <name>Checkbox__c</name>
+    </fields>
+    <fields>
+        <label><!-- testfield100 --></label>
+        <name>testfield100__c</name>
+    </fields>
+    <fields>
+        <label><!-- testfield101 --></label>
+        <name>testfield101__c</name>
+    </fields>
+    <fields>
+        <label><!-- testfield102 --></label>
+        <name>testfield102__c</name>
+    </fields>
+    <fields>
+        <label><!-- testfield103 --></label>
+        <name>testfield103__c</name>
+    </fields>
+    <fields>
+        <label><!-- testfield104 --></label>
+        <name>testfield104__c</name>
+    </fields>
+    <fields>
+        <label><!-- testfield105 --></label>
+        <name>testfield105__c</name>
+    </fields>
+    <fields>
+        <label><!-- testfield106 --></label>
+        <name>testfield106__c</name>
+        <relationshipLabel><!-- object50_testfield106s --></relationshipLabel>
+    </fields>
+    <fields>
+        <label><!-- testfield107 --></label>
+        <name>testfield107__c</name>
+    </fields>
+    <fields>
+        <label><!-- testfield108 --></label>
+        <name>testfield108__c</name>
+        <picklistValues>
+            <masterLabel>first</masterLabel>
+            <translation><!-- first --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>second</masterLabel>
+            <translation><!-- second --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- testfield109 --></label>
+        <name>testfield109__c</name>
+    </fields>
+    <fields>
+        <label><!-- testfield10 --></label>
+        <name>testfield10__c</name>
+    </fields>
+    <fields>
+        <label><!-- testfield110 --></label>
+        <name>testfield110__c</name>
+    </fields>
+    <fields>
+        <label><!-- testfield111 --></label>
+        <name>testfield111__c</name>
+    </fields>
+    <fields>
+        <label><!-- testfield112 --></label>
+        <name>testfield112__c</name>
+    </fields>
+    <fields>
+        <label><!-- testfield113 --></label>
+        <name>testfield113__c</name>
+    </fields>
+    <fields>
+        <label><!-- testfield114 --></label>
+        <name>testfield114__c</name>
+    </fields>
+    <fields>
+        <label><!-- testfield115 --></label>
+        <name>testfield115__c</name>
+    </fields>
+    <fields>
+        <label><!-- testfield116 --></label>
+        <name>testfield116__c</name>
+        <relationshipLabel><!-- object50_testfield116s --></relationshipLabel>
+    </fields>
+    <fields>
+        <label><!-- testfield117 --></label>
+        <name>testfield117__c</name>
+    </fields>
+    <fields>
+        <label><!-- testfield118 --></label>
+        <name>testfield118__c</name>
+        <picklistValues>
+            <masterLabel>first</masterLabel>
+            <translation><!-- first --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>second</masterLabel>
+            <translation><!-- second --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- testfield119 --></label>
+        <name>testfield119__c</name>
+    </fields>
+    <fields>
+        <label><!-- testfield11 --></label>
+        <name>testfield11__c</name>
+    </fields>
+    <fields>
+        <label><!-- testfield120 --></label>
+        <name>testfield120__c</name>
+    </fields>
+    <fields>
+        <label><!-- testfield121 --></label>
+        <name>testfield121__c</name>
+    </fields>
+    <fields>
+        <label><!-- testfield122 --></label>
+        <name>testfield122__c</name>
+    </fields>
+    <fields>
+        <label><!-- testfield123 --></label>
+        <name>testfield123__c</name>
+    </fields>
+    <fields>
+        <label><!-- testfield124 --></label>
+        <name>testfield124__c</name>
+    </fields>
+    <fields>
+        <label><!-- testfield125 --></label>
+        <name>testfield125__c</name>
+    </fields>
+    <fields>
+        <label><!-- testfield126 --></label>
+        <name>testfield126__c</name>
+        <relationshipLabel><!-- object50_testfield126s --></relationshipLabel>
+    </fields>
+    <fields>
+        <label><!-- testfield127 --></label>
+        <name>testfield127__c</name>
+    </fields>
+    <fields>
+        <label><!-- testfield128 --></label>
+        <name>testfield128__c</name>
+        <picklistValues>
+            <masterLabel>first</masterLabel>
+            <translation><!-- first --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>second</masterLabel>
+            <translation><!-- second --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- testfield129 --></label>
+        <name>testfield129__c</name>
+    </fields>
+    <fields>
+        <label><!-- testfield12 --></label>
+        <name>testfield12__c</name>
+    </fields>
+    <fields>
+        <label><!-- testfield130 --></label>
+        <name>testfield130__c</name>
+    </fields>
+    <fields>
+        <label><!-- testfield131 --></label>
+        <name>testfield131__c</name>
+    </fields>
+    <fields>
+        <label><!-- testfield132 --></label>
+        <name>testfield132__c</name>
+    </fields>
+    <fields>
+        <label><!-- testfield133 --></label>
+        <name>testfield133__c</name>
+    </fields>
+    <fields>
+        <label><!-- testfield134 --></label>
+        <name>testfield134__c</name>
+    </fields>
+    <fields>
+        <label><!-- testfield135 --></label>
+        <name>testfield135__c</name>
+    </fields>
+    <fields>
+        <label><!-- testfield136 --></label>
+        <name>testfield136__c</name>
+        <relationshipLabel><!-- object50_testfield136s --></relationshipLabel>
+    </fields>
+    <fields>
+        <label><!-- testfield137 --></label>
+        <name>testfield137__c</name>
+    </fields>
+    <fields>
+        <label><!-- testfield138 --></label>
+        <name>testfield138__c</name>
+        <picklistValues>
+            <masterLabel>first</masterLabel>
+            <translation><!-- first --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>second</masterLabel>
+            <translation><!-- second --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- testfield139 --></label>
+        <name>testfield139__c</name>
+    </fields>
+    <fields>
+        <label><!-- testfield13 --></label>
+        <name>testfield13__c</name>
+    </fields>
+    <fields>
+        <label><!-- testfield140 --></label>
+        <name>testfield140__c</name>
+    </fields>
+    <fields>
+        <label><!-- testfield141 --></label>
+        <name>testfield141__c</name>
+    </fields>
+    <fields>
+        <label><!-- testfield142 --></label>
+        <name>testfield142__c</name>
+    </fields>
+    <fields>
+        <label><!-- testfield143 --></label>
+        <name>testfield143__c</name>
+    </fields>
+    <fields>
+        <label><!-- testfield144 --></label>
+        <name>testfield144__c</name>
+    </fields>
+    <fields>
+        <label><!-- testfield145 --></label>
+        <name>testfield145__c</name>
+    </fields>
+    <fields>
+        <label><!-- testfield146 --></label>
+        <name>testfield146__c</name>
+        <relationshipLabel><!-- object50_testfield146s --></relationshipLabel>
+    </fields>
+    <fields>
+        <label><!-- testfield147 --></label>
+        <name>testfield147__c</name>
+    </fields>
+    <fields>
+        <label><!-- testfield148 --></label>
+        <name>testfield148__c</name>
+        <picklistValues>
+            <masterLabel>first</masterLabel>
+            <translation><!-- first --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>second</masterLabel>
+            <translation><!-- second --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- testfield149 --></label>
+        <name>testfield149__c</name>
+    </fields>
+    <fields>
+        <label><!-- testfield14 --></label>
+        <name>testfield14__c</name>
+    </fields>
+    <fields>
+        <label><!-- testfield150 --></label>
+        <name>testfield150__c</name>
+    </fields>
+    <fields>
+        <label><!-- testfield151 --></label>
+        <name>testfield151__c</name>
+    </fields>
+    <fields>
+        <label><!-- testfield152 --></label>
+        <name>testfield152__c</name>
+    </fields>
+    <fields>
+        <label><!-- testfield153 --></label>
+        <name>testfield153__c</name>
+    </fields>
+    <fields>
+        <label><!-- testfield154 --></label>
+        <name>testfield154__c</name>
+    </fields>
+    <fields>
+        <label><!-- testfield155 --></label>
+        <name>testfield155__c</name>
+    </fields>
+    <fields>
+        <label><!-- testfield156 --></label>
+        <name>testfield156__c</name>
+        <relationshipLabel><!-- object50_testfield156s --></relationshipLabel>
+    </fields>
+    <fields>
+        <label><!-- testfield157 --></label>
+        <name>testfield157__c</name>
+    </fields>
+    <fields>
+        <label><!-- testfield158 --></label>
+        <name>testfield158__c</name>
+        <picklistValues>
+            <masterLabel>first</masterLabel>
+            <translation><!-- first --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>second</masterLabel>
+            <translation><!-- second --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- testfield159 --></label>
+        <name>testfield159__c</name>
+    </fields>
+    <fields>
+        <label><!-- testfield15 --></label>
+        <name>testfield15__c</name>
+    </fields>
+    <fields>
+        <label><!-- testfield160 --></label>
+        <name>testfield160__c</name>
+    </fields>
+    <fields>
+        <label><!-- testfield161 --></label>
+        <name>testfield161__c</name>
+    </fields>
+    <fields>
+        <label><!-- testfield162 --></label>
+        <name>testfield162__c</name>
+    </fields>
+    <fields>
+        <label><!-- testfield163 --></label>
+        <name>testfield163__c</name>
+    </fields>
+    <fields>
+        <label><!-- testfield164 --></label>
+        <name>testfield164__c</name>
+    </fields>
+    <fields>
+        <label><!-- testfield165 --></label>
+        <name>testfield165__c</name>
+    </fields>
+    <fields>
+        <label><!-- testfield166 --></label>
+        <name>testfield166__c</name>
+        <relationshipLabel><!-- object50_testfield166s --></relationshipLabel>
+    </fields>
+    <fields>
+        <label><!-- testfield167 --></label>
+        <name>testfield167__c</name>
+    </fields>
+    <fields>
+        <label><!-- testfield168 --></label>
+        <name>testfield168__c</name>
+        <picklistValues>
+            <masterLabel>first</masterLabel>
+            <translation><!-- first --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>second</masterLabel>
+            <translation><!-- second --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- testfield169 --></label>
+        <name>testfield169__c</name>
+    </fields>
+    <fields>
+        <label><!-- testfield16 --></label>
+        <name>testfield16__c</name>
+        <relationshipLabel><!-- object50_testfield16s --></relationshipLabel>
+    </fields>
+    <fields>
+        <label><!-- testfield170 --></label>
+        <name>testfield170__c</name>
+    </fields>
+    <fields>
+        <label><!-- testfield171 --></label>
+        <name>testfield171__c</name>
+    </fields>
+    <fields>
+        <label><!-- testfield172 --></label>
+        <name>testfield172__c</name>
+    </fields>
+    <fields>
+        <label><!-- testfield173 --></label>
+        <name>testfield173__c</name>
+    </fields>
+    <fields>
+        <label><!-- testfield174 --></label>
+        <name>testfield174__c</name>
+    </fields>
+    <fields>
+        <label><!-- testfield175 --></label>
+        <name>testfield175__c</name>
+    </fields>
+    <fields>
+        <label><!-- testfield176 --></label>
+        <name>testfield176__c</name>
+        <relationshipLabel><!-- object50_testfield176s --></relationshipLabel>
+    </fields>
+    <fields>
+        <label><!-- testfield177 --></label>
+        <name>testfield177__c</name>
+    </fields>
+    <fields>
+        <label><!-- testfield178 --></label>
+        <name>testfield178__c</name>
+        <picklistValues>
+            <masterLabel>first</masterLabel>
+            <translation><!-- first --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>second</masterLabel>
+            <translation><!-- second --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- testfield179 --></label>
+        <name>testfield179__c</name>
+    </fields>
+    <fields>
+        <label><!-- testfield17 --></label>
+        <name>testfield17__c</name>
+    </fields>
+    <fields>
+        <label><!-- testfield180 --></label>
+        <name>testfield180__c</name>
+    </fields>
+    <fields>
+        <label><!-- testfield181 --></label>
+        <name>testfield181__c</name>
+    </fields>
+    <fields>
+        <label><!-- testfield182 --></label>
+        <name>testfield182__c</name>
+    </fields>
+    <fields>
+        <label><!-- testfield183 --></label>
+        <name>testfield183__c</name>
+    </fields>
+    <fields>
+        <label><!-- testfield184 --></label>
+        <name>testfield184__c</name>
+    </fields>
+    <fields>
+        <label><!-- testfield185 --></label>
+        <name>testfield185__c</name>
+    </fields>
+    <fields>
+        <label><!-- testfield186 --></label>
+        <name>testfield186__c</name>
+        <relationshipLabel><!-- object50_testfield186s --></relationshipLabel>
+    </fields>
+    <fields>
+        <label><!-- testfield187 --></label>
+        <name>testfield187__c</name>
+    </fields>
+    <fields>
+        <label><!-- testfield188 --></label>
+        <name>testfield188__c</name>
+        <picklistValues>
+            <masterLabel>first</masterLabel>
+            <translation><!-- first --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>second</masterLabel>
+            <translation><!-- second --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- testfield189 --></label>
+        <name>testfield189__c</name>
+    </fields>
+    <fields>
+        <label><!-- testfield18 --></label>
+        <name>testfield18__c</name>
+        <picklistValues>
+            <masterLabel>first</masterLabel>
+            <translation><!-- first --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>second</masterLabel>
+            <translation><!-- second --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- testfield190 --></label>
+        <name>testfield190__c</name>
+    </fields>
+    <fields>
+        <label><!-- testfield191 --></label>
+        <name>testfield191__c</name>
+    </fields>
+    <fields>
+        <label><!-- testfield192 --></label>
+        <name>testfield192__c</name>
+    </fields>
+    <fields>
+        <label><!-- testfield193 --></label>
+        <name>testfield193__c</name>
+    </fields>
+    <fields>
+        <label><!-- testfield194 --></label>
+        <name>testfield194__c</name>
+    </fields>
+    <fields>
+        <label><!-- testfield195 --></label>
+        <name>testfield195__c</name>
+    </fields>
+    <fields>
+        <label><!-- testfield196 --></label>
+        <name>testfield196__c</name>
+        <relationshipLabel><!-- object50_testfield196s --></relationshipLabel>
+    </fields>
+    <fields>
+        <label><!-- testfield197 --></label>
+        <name>testfield197__c</name>
+    </fields>
+    <fields>
+        <label><!-- testfield198 --></label>
+        <name>testfield198__c</name>
+        <picklistValues>
+            <masterLabel>first</masterLabel>
+            <translation><!-- first --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>second</masterLabel>
+            <translation><!-- second --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- testfield199 --></label>
+        <name>testfield199__c</name>
+    </fields>
+    <fields>
+        <label><!-- testfield19 --></label>
+        <name>testfield19__c</name>
+    </fields>
+    <fields>
+        <label><!-- testfield1 --></label>
+        <name>testfield1__c</name>
+    </fields>
+    <fields>
+        <label><!-- testfield200 --></label>
+        <name>testfield200__c</name>
+    </fields>
+    <fields>
+        <label><!-- testfield20 --></label>
+        <name>testfield20__c</name>
+    </fields>
+    <fields>
+        <label><!-- testfield21 --></label>
+        <name>testfield21__c</name>
+    </fields>
+    <fields>
+        <label><!-- testfield22 --></label>
+        <name>testfield22__c</name>
+    </fields>
+    <fields>
+        <label><!-- testfield23 --></label>
+        <name>testfield23__c</name>
+    </fields>
+    <fields>
+        <label><!-- testfield24 --></label>
+        <name>testfield24__c</name>
+    </fields>
+    <fields>
+        <label><!-- testfield25 --></label>
+        <name>testfield25__c</name>
+    </fields>
+    <fields>
+        <label><!-- testfield26 --></label>
+        <name>testfield26__c</name>
+        <relationshipLabel><!-- object50_testfield26s --></relationshipLabel>
+    </fields>
+    <fields>
+        <label><!-- testfield27 --></label>
+        <name>testfield27__c</name>
+    </fields>
+    <fields>
+        <label><!-- testfield28 --></label>
+        <name>testfield28__c</name>
+        <picklistValues>
+            <masterLabel>first</masterLabel>
+            <translation><!-- first --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>second</masterLabel>
+            <translation><!-- second --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- testfield29 --></label>
+        <name>testfield29__c</name>
+    </fields>
+    <fields>
+        <label><!-- testfield2 --></label>
+        <name>testfield2__c</name>
+    </fields>
+    <fields>
+        <label><!-- testfield30 --></label>
+        <name>testfield30__c</name>
+    </fields>
+    <fields>
+        <label><!-- testfield31 --></label>
+        <name>testfield31__c</name>
+    </fields>
+    <fields>
+        <label><!-- testfield32 --></label>
+        <name>testfield32__c</name>
+    </fields>
+    <fields>
+        <label><!-- testfield33 --></label>
+        <name>testfield33__c</name>
+    </fields>
+    <fields>
+        <label><!-- testfield34 --></label>
+        <name>testfield34__c</name>
+    </fields>
+    <fields>
+        <label><!-- testfield35 --></label>
+        <name>testfield35__c</name>
+    </fields>
+    <fields>
+        <label><!-- testfield36 --></label>
+        <name>testfield36__c</name>
+        <relationshipLabel><!-- object50_testfield36s --></relationshipLabel>
+    </fields>
+    <fields>
+        <label><!-- testfield37 --></label>
+        <name>testfield37__c</name>
+    </fields>
+    <fields>
+        <label><!-- testfield38 --></label>
+        <name>testfield38__c</name>
+        <picklistValues>
+            <masterLabel>first</masterLabel>
+            <translation><!-- first --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>second</masterLabel>
+            <translation><!-- second --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- testfield39 --></label>
+        <name>testfield39__c</name>
+    </fields>
+    <fields>
+        <label><!-- testfield3 --></label>
+        <name>testfield3__c</name>
+    </fields>
+    <fields>
+        <label><!-- testfield40 --></label>
+        <name>testfield40__c</name>
+    </fields>
+    <fields>
+        <label><!-- testfield41 --></label>
+        <name>testfield41__c</name>
+    </fields>
+    <fields>
+        <label><!-- testfield42 --></label>
+        <name>testfield42__c</name>
+    </fields>
+    <fields>
+        <label><!-- testfield43 --></label>
+        <name>testfield43__c</name>
+    </fields>
+    <fields>
+        <label><!-- testfield44 --></label>
+        <name>testfield44__c</name>
+    </fields>
+    <fields>
+        <label><!-- testfield45 --></label>
+        <name>testfield45__c</name>
+    </fields>
+    <fields>
+        <label><!-- testfield46 --></label>
+        <name>testfield46__c</name>
+        <relationshipLabel><!-- object50_testfield46s --></relationshipLabel>
+    </fields>
+    <fields>
+        <label><!-- testfield47 --></label>
+        <name>testfield47__c</name>
+    </fields>
+    <fields>
+        <label><!-- testfield48 --></label>
+        <name>testfield48__c</name>
+        <picklistValues>
+            <masterLabel>first</masterLabel>
+            <translation><!-- first --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>second</masterLabel>
+            <translation><!-- second --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- testfield49 --></label>
+        <name>testfield49__c</name>
+    </fields>
+    <fields>
+        <label><!-- testfield4 --></label>
+        <name>testfield4__c</name>
+    </fields>
+    <fields>
+        <label><!-- testfield50 --></label>
+        <name>testfield50__c</name>
+    </fields>
+    <fields>
+        <label><!-- testfield51 --></label>
+        <name>testfield51__c</name>
+    </fields>
+    <fields>
+        <label><!-- testfield52 --></label>
+        <name>testfield52__c</name>
+    </fields>
+    <fields>
+        <label><!-- testfield53 --></label>
+        <name>testfield53__c</name>
+    </fields>
+    <fields>
+        <label><!-- testfield54 --></label>
+        <name>testfield54__c</name>
+    </fields>
+    <fields>
+        <label><!-- testfield55 --></label>
+        <name>testfield55__c</name>
+    </fields>
+    <fields>
+        <label><!-- testfield56 --></label>
+        <name>testfield56__c</name>
+        <relationshipLabel><!-- object50_testfield56s --></relationshipLabel>
+    </fields>
+    <fields>
+        <label><!-- testfield57 --></label>
+        <name>testfield57__c</name>
+    </fields>
+    <fields>
+        <label><!-- testfield58 --></label>
+        <name>testfield58__c</name>
+        <picklistValues>
+            <masterLabel>first</masterLabel>
+            <translation><!-- first --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>second</masterLabel>
+            <translation><!-- second --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- testfield59 --></label>
+        <name>testfield59__c</name>
+    </fields>
+    <fields>
+        <label><!-- testfield5 --></label>
+        <name>testfield5__c</name>
+    </fields>
+    <fields>
+        <label><!-- testfield60 --></label>
+        <name>testfield60__c</name>
+    </fields>
+    <fields>
+        <label><!-- testfield61 --></label>
+        <name>testfield61__c</name>
+    </fields>
+    <fields>
+        <label><!-- testfield62 --></label>
+        <name>testfield62__c</name>
+    </fields>
+    <fields>
+        <label><!-- testfield63 --></label>
+        <name>testfield63__c</name>
+    </fields>
+    <fields>
+        <label><!-- testfield64 --></label>
+        <name>testfield64__c</name>
+    </fields>
+    <fields>
+        <label><!-- testfield65 --></label>
+        <name>testfield65__c</name>
+    </fields>
+    <fields>
+        <label><!-- testfield66 --></label>
+        <name>testfield66__c</name>
+        <relationshipLabel><!-- object50_testfield66s --></relationshipLabel>
+    </fields>
+    <fields>
+        <label><!-- testfield67 --></label>
+        <name>testfield67__c</name>
+    </fields>
+    <fields>
+        <label><!-- testfield68 --></label>
+        <name>testfield68__c</name>
+        <picklistValues>
+            <masterLabel>first</masterLabel>
+            <translation><!-- first --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>second</masterLabel>
+            <translation><!-- second --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- testfield69 --></label>
+        <name>testfield69__c</name>
+    </fields>
+    <fields>
+        <label><!-- testfield6 --></label>
+        <name>testfield6__c</name>
+        <relationshipLabel><!-- object50_testfield6s --></relationshipLabel>
+    </fields>
+    <fields>
+        <label><!-- testfield70 --></label>
+        <name>testfield70__c</name>
+    </fields>
+    <fields>
+        <label><!-- testfield71 --></label>
+        <name>testfield71__c</name>
+    </fields>
+    <fields>
+        <label><!-- testfield72 --></label>
+        <name>testfield72__c</name>
+    </fields>
+    <fields>
+        <label><!-- testfield73 --></label>
+        <name>testfield73__c</name>
+    </fields>
+    <fields>
+        <label><!-- testfield74 --></label>
+        <name>testfield74__c</name>
+    </fields>
+    <fields>
+        <label><!-- testfield75 --></label>
+        <name>testfield75__c</name>
+    </fields>
+    <fields>
+        <label><!-- testfield76 --></label>
+        <name>testfield76__c</name>
+        <relationshipLabel><!-- object50_testfield76s --></relationshipLabel>
+    </fields>
+    <fields>
+        <label><!-- testfield77 --></label>
+        <name>testfield77__c</name>
+    </fields>
+    <fields>
+        <label><!-- testfield78 --></label>
+        <name>testfield78__c</name>
+        <picklistValues>
+            <masterLabel>first</masterLabel>
+            <translation><!-- first --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>second</masterLabel>
+            <translation><!-- second --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- testfield79 --></label>
+        <name>testfield79__c</name>
+    </fields>
+    <fields>
+        <label><!-- testfield7 --></label>
+        <name>testfield7__c</name>
+    </fields>
+    <fields>
+        <label><!-- testfield80 --></label>
+        <name>testfield80__c</name>
+    </fields>
+    <fields>
+        <label><!-- testfield81 --></label>
+        <name>testfield81__c</name>
+    </fields>
+    <fields>
+        <label><!-- testfield82 --></label>
+        <name>testfield82__c</name>
+    </fields>
+    <fields>
+        <label><!-- testfield83 --></label>
+        <name>testfield83__c</name>
+    </fields>
+    <fields>
+        <label><!-- testfield84 --></label>
+        <name>testfield84__c</name>
+    </fields>
+    <fields>
+        <label><!-- testfield85 --></label>
+        <name>testfield85__c</name>
+    </fields>
+    <fields>
+        <label><!-- testfield86 --></label>
+        <name>testfield86__c</name>
+        <relationshipLabel><!-- object50_testfield86s --></relationshipLabel>
+    </fields>
+    <fields>
+        <label><!-- testfield87 --></label>
+        <name>testfield87__c</name>
+    </fields>
+    <fields>
+        <label><!-- testfield88 --></label>
+        <name>testfield88__c</name>
+        <picklistValues>
+            <masterLabel>first</masterLabel>
+            <translation><!-- first --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>second</masterLabel>
+            <translation><!-- second --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- testfield89 --></label>
+        <name>testfield89__c</name>
+    </fields>
+    <fields>
+        <label><!-- testfield8 --></label>
+        <name>testfield8__c</name>
+        <picklistValues>
+            <masterLabel>first</masterLabel>
+            <translation><!-- first --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>second</masterLabel>
+            <translation><!-- second --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- testfield90 --></label>
+        <name>testfield90__c</name>
+    </fields>
+    <fields>
+        <label><!-- testfield91 --></label>
+        <name>testfield91__c</name>
+    </fields>
+    <fields>
+        <label><!-- testfield92 --></label>
+        <name>testfield92__c</name>
+    </fields>
+    <fields>
+        <label><!-- testfield93 --></label>
+        <name>testfield93__c</name>
+    </fields>
+    <fields>
+        <label><!-- testfield94 --></label>
+        <name>testfield94__c</name>
+    </fields>
+    <fields>
+        <label><!-- testfield95 --></label>
+        <name>testfield95__c</name>
+    </fields>
+    <fields>
+        <label><!-- testfield96 --></label>
+        <name>testfield96__c</name>
+        <relationshipLabel><!-- object50_testfield96s --></relationshipLabel>
+    </fields>
+    <fields>
+        <label><!-- testfield97 --></label>
+        <name>testfield97__c</name>
+    </fields>
+    <fields>
+        <label><!-- testfield98 --></label>
+        <name>testfield98__c</name>
+        <picklistValues>
+            <masterLabel>first</masterLabel>
+            <translation><!-- first --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>second</masterLabel>
+            <translation><!-- second --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- testfield99 --></label>
+        <name>testfield99__c</name>
+    </fields>
+    <fields>
+        <label><!-- testfield9 --></label>
+        <name>testfield9__c</name>
+    </fields>
+    <startsWith>Consonant</startsWith>
+</CustomObjectTranslation>

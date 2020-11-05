@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObject xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fields>
+        <fullName>Field1__c</fullName>
+        <description>http://w3schools.com/my test.asp?name=stÃ¥le&amp;car=saab</description>
+        <externalId>false</externalId>
+        <label>ÐÐ³Ð¾ÑÑ ÐÐ¾ÑÑÐµÐ²Ð¸Ñ</label>
+        <length>100</length>
+        <required>false</required>
+        <trackTrending>false</trackTrending>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+</CustomObject>
